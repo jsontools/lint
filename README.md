@@ -1,0 +1,2 @@
+# lint
+JSONLint ad-free
